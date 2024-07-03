@@ -1,0 +1,33 @@
+.sx-home-slogan {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.sx-home-desc {
+    font-size:small;
+}
+
+.sx-home-header {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.sx-home-btn {
+    margin: 16px;
+}
+
+.sx-landing {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    background-color: #313131;
+    color: #e1e1e1;
+}
+
+.sx-glance {
+    margin-top: 42px;
+    
+}
+
+.sx-code-card {
+    margin-bottom: 22px;
+}
