@@ -4,7 +4,8 @@ export default function About({}){
 
     return(
         <MainLayout>
-             This is the About page
+             <iframe className="sx-doc-frame" id="theFrame" src="https://scixtracer.github.io/scixtracer/about.html">
+             </iframe>
         </MainLayout>
     )
 }

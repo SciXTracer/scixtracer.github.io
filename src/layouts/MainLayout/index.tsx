@@ -22,9 +22,11 @@ export default function MainLayout(props: LayoutProps){
                         <li className="nav-item">
                             <Link className="nav-link sx-link" to={"/install"}>Install</Link>
                         </li>
-                        <li className="nav-item">
+                        {/*
+                        // <li className="nav-item">
                             <Link className="nav-link sx-link" to={"/examples"}>Examples</Link>
                         </li>
+                        */}
                         <li className="nav-item">
                         <Link className="nav-link sx-link" to={"/documentation"}>Documentation</Link>
                         </li>
